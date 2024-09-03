@@ -45,8 +45,6 @@ I specialize in optimizing applications and systems, bringing a solid knowledge 
 Feel free to reach out to me for collaborations or just a tech chat!
 
 - 📧 Email: JonatanAlbenioMedina@outlook.com
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🐦 Twitter: [@YourTwitterHandle]
 
 ---
 
@@ -97,5 +95,4 @@ Me especializo en optimizar aplicaciones y sistemas, aportando un sólido conoci
 ¡No dudes en contactarme para colaboraciones o simplemente para charlar sobre tecnología!
 
 - 📧 Email: JonatanAlbenioMedina@outlook.com
-- 💼 LinkedIn: [Tu Perfil de LinkedIn]
-- 🐦 Twitter: [@TuManejadorDeTwitter]
+
