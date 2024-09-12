@@ -22,7 +22,7 @@ I specialize in optimizing applications and systems, bringing a solid knowledge 
 ## 💻 Tech Stack
 
 - Python 🐍
-- C# (.NET Core Framework 4.5) 🔷
+- C#  🔷
 - JavaScript 📜
 - Angular 🅰️
 - SQL Server 🗃️
