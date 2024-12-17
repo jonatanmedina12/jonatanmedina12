@@ -51,7 +51,6 @@ class SobreMi:
 - 🅰️ Desarrollo Full Stack con Angular
 - 🤖 Inteligencia Artificial y Machine Learning
 
-## 📈 Contribuciones
 
 <img src="https://github-profile-trophy.vercel.app/?username=jonatanmedina12&theme=tokyonight&column=7" alt="GitHub Trophies" />
 
@@ -65,10 +64,3 @@ class SobreMi:
 
 </div>
 
----
-
-<div align="center">
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=jonatanmedina12.jonatanmedina12)
-
-</div>
