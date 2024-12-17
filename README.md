@@ -2,6 +2,8 @@
   
 # ¡Hola, soy Jonatan! 👋 
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jonatanmedina12&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Entusiasta+de+Python+y+.NET;Siempre+aprendiendo+nuevas+tecnologías)](https://git.io/typing-svg)
 
 <img src="https://github-readme-stats.vercel.app/api?username=jonatanmedina12&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -20,7 +22,6 @@
 ### Bases de Datos y Herramientas
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=101010)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=101010)
 
 </div>
 
@@ -51,6 +52,9 @@ class SobreMi:
 - 🅰️ Desarrollo Full Stack con Angular
 - 🤖 Inteligencia Artificial y Machine Learning
 
+## 📈 Contribuciones
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jonatanmedina12&theme=tokyonight)](https://git.io/streak-stats)
 
 <img src="https://github-profile-trophy.vercel.app/?username=jonatanmedina12&theme=tokyonight&column=7" alt="GitHub Trophies" />
 
