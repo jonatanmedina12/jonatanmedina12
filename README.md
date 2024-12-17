@@ -59,7 +59,6 @@ class SobreMi:
 <div align="center">
 
 [![Email](https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:JonatanAlbenioMedina@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil/)
 [![GitHub](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jonatanmedina12)
 
 </div>
