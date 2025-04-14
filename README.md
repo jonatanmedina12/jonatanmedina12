@@ -117,6 +117,8 @@
 <img src="https://i.imgur.com/waxVImv.png" align="right" height="100%" width="3px">
 
 <div align="center">
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/jonatanmedina12)
+
 <!-- Borde inferior decorativo -->
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   <!-- Borde inferior decorativo -->
