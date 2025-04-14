@@ -1,73 +1,74 @@
-<img src="https://media.giphy.com/media/3ohzdOrOz6eLJFpezK/giphy.gif" width="200" />
+<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="200" alt="Mario Running">
 </div>
 
-## 🍄 POWER-UPS DESBLOQUEADOS
+## 💻 TERMINAL DE MARIO
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center" width="150">
-      <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="80" height="80" alt="JavaScript">
-      <br>JavaScript
-    </td>
-    <td align="center" width="150">
-      <img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" width="80" height="80" alt="Angular">
-      <br>Angular
-    </td>
-    <td align="center" width="150">
-      <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="80" height="80" alt="React">
-      <br>React
-    </td>
-    <td align="center" width="150">
-      <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="80" height="80" alt="CSS">
-      <br>CSS3
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="150">
-      <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="80" height="80" alt="Node.js">
-      <br>Node.js
-    </td>
-    <td align="center" width="150">
-      <img src="https://media.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.gif" width="80" height="80" alt="Java">
-      <br>Spring Boot
-    </td>
-    <td align="center" width="150">
-      <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="80" height="80" alt="Python">
-      <br>Python
-    </td>
-    <td align="center" width="150">
-      <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="80" height="80" alt="VS Code">
-      <br>VS Code
-    </td>
-  </tr>
-</table>
+<img src="https://media.giphy.com/media/WoWm8YzFQJg5i/giphy.gif" width="100" alt="Mario Mushroom">
+
+<pre>
+<code>
+$ mario --version
+Super Mario Bros Developer v3.5.1
+
+$ mario --list-skills
+Cargando habilidades...
+[■■■■■■■■■■] 100%
+
+FRONTEND:    ★★★★★
+BACKEND:     ★★★★☆
+DEVOPS:      ★★★★☆
+DATABASES:   ★★★★★
+
+$ mario --start-adventure
+¡Aventura comenzada! Explorando el reino del código...
+</code>
+</pre>
+
+<img src="https://media.giphy.com/media/1KoN1DMBnCMWk/giphy.gif" width="100" alt="Mario Star">
 </div>
 
-## 🏰 PROYECTOS ÉPICOS
+## 🏆 TROFEOS Y LOGROS
 
 <div align="center">
-<a href="https://github.com/TU-USUARIO/proyecto1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU-USUARIO&repo=proyecto1&theme=radical&border_radius=20&title_color=FF6B6B&icon_color=FFE66D&text_color=4ECDC4&bg_color=292F36" />
+<img src="https://github-profile-trophy.vercel.app/?username=TU-USUARIO&theme=darkhub&column=8&margin-w=15&margin-h=15" alt="Trofeos de GitHub">
+</div>
+
+## 📊 STATS DE LENGUAJES
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=radical&hide_border=true&title_color=FF6B6B&text_color=4ECDC4&bg_color=292F36" alt="Lenguajes más usados">
+</div>
+
+## 🔌 CONECTEMOS
+
+<div align="center">
+<a href="https://linkedin.com/in/TU-LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://github.com/TU-USUARIO/proyecto2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU-USUARIO&repo=proyecto2&theme=radical&border_radius=20&title_color=FF6B6B&icon_color=FFE66D&text_color=4ECDC4&bg_color=292F36" />
+<a href="mailto:tu-email@ejemplo.com">
+  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://tu-sitio.com">
+  <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Website" />
 </a>
 </div>
 
-## 🌟 ESCENAS ANIMADAS
+## 📈 ACTIVIDAD DE COMMITS
 
 <div align="center">
-<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="400" alt="Mario Coding">
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=2000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=if+(coffee.isEmpty())+{+refill()+};while+(!project.isCompleted())+{+code()};if+(bugs.exist())+{+fixThem()}" alt="Coding Animation" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU-USUARIO&theme=react-dark&hide_border=true&bg_color=292F36&color=FF6B6B&line=4ECDC4&point=FFE66D" width="100%" alt="Actividad de GitHub">
 </div>
 
-## 🗺️ MAPA DE MUNDO MARIO
+<div align="center">
+<img src="https://raw.githubusercontent.com/TU-USUARIO/TU-USUARIO/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation">
+</div>
 
 <div align="center">
-<img src="https://media.giphy.com/media/jxJjBMvqEvMSA/giphy.gif" width="800" alt="Mario World Map">
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400" alt="Mario End Scene">
 
-<h3>🗺️ MAPA DE CARRERA DE DESARROLLO 🗺️</h3>
+<h2>¡GRACIAS POR VISITAR MI PERFIL!</h2>
+<p>No olvides darle ⭐️ a mis repositorios si te han gustado</p>
+</div>
+
+<img src="https://media.giphy.com/media/PnUatAYWMEMvmiwsyx/giphy.gif" width="100%" alt="Mario Footer">
