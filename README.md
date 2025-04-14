@@ -1,4 +1,10 @@
-# 🎮 ¡PLAYER 1 READY! - Jonatan Medina 🎮
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h1 ># 🎮 ¡PLAYER 1 READY! - Jonatan Medina 🎮</h1>
+
+</div>
 
 <div align="center">
   <!-- Borde superior decorativo -->
@@ -111,18 +117,7 @@
 <img src="https://i.imgur.com/waxVImv.png" align="right" height="100%" width="3px">
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jonatanmedina12&label=Visitantes&color=brightgreen&style=for-the-badge" alt="Profile Views" />
-  <br/><br/>
-  
-  <div style="display: inline-block; margin: 20px 0;">
-    <img src="https://img.shields.io/badge/QUEST%20STATUS-READY-orange?style=for-the-badge" alt="Quest Status" />
-    <h3 style="color: #FF5733; margin: 10px 0;">⚔️ BUSCANDO NUEVA AVENTURA ⚔️</h3>
-  </div>
-  
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
-  
-  ### PRESS START TO COLLABORATE
-  
-  <!-- Borde inferior decorativo -->
+<!-- Borde inferior decorativo -->
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <!-- Borde inferior decorativo -->
 </div>
