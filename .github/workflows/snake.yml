@@ -2,28 +2,25 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # ejecuta cada 12 horas
+    - cron: "0 0 * * *" # ejecuta una vez al día
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v2
-
-      - uses: Platane/snk@master
-        id: snake-gif
+      
+      - name: Generate Snake
+        uses: Platane/snk@master
         with:
           github_user_name: jonatanmedina12
-          # Colores temáticos de videojuegos (verde oscuro y verde claro)
-          svg_out_path: dist/github-contribution-grid-snake-dark.svg
-          snake_color: "#00FF00"
-          grid_color: "#003300"
-
-      - name: Push to GitHub
-        uses: EndBug/add-and-commit@v7
+          svg_out_path: dist/github-contribution-grid-snake.svg
+      
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
-          branch: output
-          message: 'Actualización de la animación del gráfico de contribuciones'
-          add: "dist/github-contribution-grid-snake-dark.svg"
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
