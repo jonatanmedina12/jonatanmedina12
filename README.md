@@ -1,69 +1,270 @@
-<div align="center">
-  
-# ¡Hola, soy Jonatan! 👋 
+<!-- Aquí está el código SVG para incluir en tu README.md de GitHub -->
+<svg width="800" height="400" viewBox="0 0 800 400" fill="none" xmlns="http://www.w3.org/2000/svg"
+  style="background-color: #0d1117;">
+  <style>
+    @keyframes popup {
+      0% {
+        transform: translateY(20px);
+        opacity: 0;
+      }
+      20% {
+        transform: translateY(0);
+        opacity: 1;
+      }
+      80% {
+        transform: translateY(0);
+        opacity: 1;
+      }
+      100% {
+        transform: translateY(20px);
+        opacity: 0;
+      }
+    }
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jonatanmedina12&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+    .hole {
+      fill: #2a2a2a;
+      rx: 50;
+      ry: 20;
+      width: 100;
+      height: 40;
+    }
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Entusiasta+de+Python+y+.NET;Siempre+aprendiendo+nuevas+tecnologías)](https://git.io/typing-svg)
+    .mole {
+      animation: popup 2s infinite;
+      animation-play-state: paused;
+      transform-origin: center bottom;
+      opacity: 0;
+    }
 
-<img src="https://github-readme-stats.vercel.app/api?username=jonatanmedina12&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    .mole-head {
+      fill: #8B4513;
+      stroke: #000;
+      stroke-width: 2;
+    }
 
-## 🛠️ Stack Tecnológico
+    .mole-nose {
+      fill: #222;
+    }
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatanmedina12&layout=compact&theme=tokyonight" alt="Top Languages" />
+    .mole-eye {
+      fill: #000;
+    }
 
-### Lenguajes y Frameworks
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=101010)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)
+    .mole-mouth {
+      fill: none;
+      stroke: #000;
+      stroke-width: 2;
+    }
 
-### Bases de Datos y Herramientas
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=101010)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)
+    .score-box {
+      fill: #0e2644;
+      stroke: #58a6ff;
+      stroke-width: 2;
+      rx: 10;
+      ry: 10;
+    }
 
-</div>
+    .score-text {
+      fill: #58a6ff;
+      font-family: sans-serif;
+      font-size: 24px;
+      font-weight: bold;
+      text-anchor: middle;
+    }
 
-## 🚀 Sobre Mí
+    .title-text {
+      fill: #58a6ff;
+      font-family: sans-serif;
+      font-size: 36px;
+      font-weight: bold;
+      text-anchor: middle;
+    }
 
-```python
-class SobreMi:
-    def __init__(self):
-        self.nombre = "Jonatan Medina"
-        self.rol = "Desarrollador Full Stack"
-        self.experiencia = "2+ años"
-        self.lenguajes = ["Python", "C#", "JavaScript", "Java"]
-        self.intereses = ["Desarrollo Web", "Cloud Computing", "Machine Learning"]
-        
-    def saludar(self):
-        print("¡Gracias por visitar mi perfil! 👋")
-```
+    .instruction-text {
+      fill: #8b949e;
+      font-family: sans-serif;
+      font-size: 14px;
+      text-anchor: middle;
+    }
 
-### 💡 Experiencia Destacada
-- 🧪 Desarrollo y pruebas exhaustivas de software
-- 🚄 Optimización de rendimiento en aplicaciones
-- 🛠️ Implementación de nuevas funcionalidades
-- 📊 Gestión de bases de datos
+    .start-button {
+      fill: #238636;
+      rx: 10;
+      ry: 10;
+      cursor: pointer;
+    }
 
-## 🌱 Actualmente Aprendiendo
-- 🐍 Técnicas avanzadas de Python
-- ☁️ Tecnologías Cloud
-- 🅰️ Desarrollo Full Stack con Angular
-- 🤖 Inteligencia Artificial y Machine Learning
+    .start-button:hover {
+      fill: #2ea043;
+    }
 
-## 📈 Contribuciones
+    .start-text {
+      fill: white;
+      font-family: sans-serif;
+      font-size: 18px;
+      font-weight: bold;
+      text-anchor: middle;
+      pointer-events: none;
+    }
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jonatanmedina12&theme=tokyonight)](https://git.io/streak-stats)
+    .tech-icon {
+      animation: popup 3s infinite;
+      animation-play-state: paused;
+      opacity: 0;
+    }
+  </style>
 
-<img src="https://github-profile-trophy.vercel.app/?username=jonatanmedina12&theme=tokyonight&column=7" alt="GitHub Trophies" />
+  <!-- Título del juego -->
+  <text x="400" y="50" class="title-text">¡DEVELOPER WHACK-A-TECH!</text>
+  <text x="400" y="80" class="instruction-text">¡Haz clic en las tecnologías que aparecen para sumar puntos!</text>
 
-## 📫 Conectemos
+  <!-- Tablero de puntuación -->
+  <rect x="650" y="20" width="120" height="50" class="score-box" />
+  <text x="710" y="52" class="score-text" id="score">Score: 0</text>
 
-<div align="center">
+  <!-- Botón de inicio -->
+  <rect x="350" y="90" width="100" height="40" class="start-button" id="startButton" />
+  <text x="400" y="116" class="start-text">JUGAR</text>
 
-[![Email](https://img.shields.io/badge/-EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:JonatanAlbenioMedina@outlook.com)
-[![GitHub](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jonatanmedina12)
+  <!-- Hoyos y topos (que serán iconos de tecnologías) -->
+  <!-- Fila 1 -->
+  <rect x="150" y="180" class="hole" />
+  <g class="mole" id="mole1">
+    <!-- Angular -->
+    <svg x="175" y="130" width="50" height="50" viewBox="0 0 32 32" class="tech-icon">
+      <path d="M16 2l-15 5.268 2.484 20.731 12.516 6.999 12.516-6.999 2.484-20.731z" fill="#DD0031" />
+      <path d="M16 2v32.998l12.516-6.999 2.484-20.731z" fill="#C3002F" />
+      <path d="M16 5.89l-9.755 21.855h3.638l1.964-4.915h8.295l1.964 4.915h3.638zM16 10.671l3.139 7.839h-6.277z" fill="#FFFFFF" />
+    </svg>
+  </g>
 
-</div>
+  <rect x="350" y="180" class="hole" />
+  <g class="mole" id="mole2">
+    <!-- React -->
+    <svg x="375" y="130" width="50" height="50" viewBox="0 0 32 32" class="tech-icon">
+      <circle cx="16" cy="15.974" r="2.5" fill="#00D8FF" />
+      <path d="M16 9.811c6.137 0 11.865 0.885 16.205 2.458 2.356 0.852 4.347 1.882 5.822 3.026 1.502 1.166 2.47 2.433 2.47 3.68 0 1.247-0.968 2.514-2.47 3.68-1.475 1.144-3.466 2.173-5.822 3.026-4.34 1.573-10.068 2.458-16.205 2.458s-11.865-0.885-16.205-2.458c-2.356-0.852-4.347-1.882-5.822-3.026-1.502-1.166-2.47-2.433-2.47-3.68 0-1.247 0.968-2.514 2.47-3.68 1.475-1.144 3.466-2.173 5.822-3.026 4.34-1.573 10.068-2.458 16.205-2.458z" stroke="#00D8FF" stroke-width="0.8" fill="none" />
+      <path d="M10.485 6.273c3.069-5.294 7.626-8.585 11.396-8.226 3.793 0.361 6.696 3.741 7.669 8.932 0.528 2.802 0.436 6.126-0.262 9.642-0.698 3.516-1.936 7.041-3.5 10.232-3.069 5.294-7.626 8.585-11.396 8.226-3.793-0.361-6.696-3.741-7.669-8.932-0.528-2.802-0.436-6.126 0.262-9.642 0.698-3.516 1.936-7.041 3.5-10.232z" stroke="#00D8FF" stroke-width="0.8" fill="none" />
+      <path d="M21.515 6.272c3.069 5.294 4.306 10.922 3.5 15.874-0.436 2.668-1.502 4.913-2.998 6.368-1.522 1.479-3.5 2.195-5.61 2.039-4.292-0.317-8.536-3.808-11.397-8.806-1.564-2.742-2.802-5.883-3.5-9.059-0.698-3.175-0.896-6.247-0.262-8.931 0.343-1.452 0.948-2.751 1.81-3.767 0.883-1.04 2.017-1.777 3.355-2.149 2.689-0.747 5.914 0.127 9.202 2.166 3.287 2.039 6.365 5.199 8.9 9.059z" stroke="#00D8FF" stroke-width="0.8" fill="none" />
+    </svg>
+  </g>
 
+  <rect x="550" y="180" class="hole" />
+  <g class="mole" id="mole3">
+    <!-- Spring -->
+    <svg x="575" y="130" width="50" height="50" viewBox="0 0 32 32" class="tech-icon">
+      <path d="M22.3037 24.9999C22.9231 24.9467 25.4183 24.3866 26.191 23.1506C26.4198 22.8141 25.9942 22.6892 25.8571 22.5998C25.5365 22.3766 25.1986 22.2048 24.8497 22.0572C24.0487 21.7258 23.2279 21.4398 22.3933 21.2C21.5587 20.9602 20.7128 20.7672 19.8606 20.6217C19.0084 20.4763 18.1513 20.3793 17.2926 20.3198C16.4339 20.2602 15.5735 20.2355 14.7133 20.2602C13.8531 20.2849 12.9921 20.3537 12.1343 20.4657C11.2766 20.5778 10.4221 20.733 9.57158 20.9267C8.72109 21.1204 7.87673 21.3529 7.03946 21.6185C6.20219 21.8842 5.37353 22.1836 4.55675 22.5131C4.33272 22.6105 4.01399 22.7636 4.00002 23.0571C3.98605 23.3506 4.30478 23.5389 4.48549 23.6602C5.09003 24.0434 5.70759 24.4063 6.33916 24.7491C6.97073 25.0918 7.61559 25.4177 8.26714 25.7208C8.91868 26.0238 9.58357 26.3081 10.2568 26.5686C10.93 26.8291 11.6159 27.0598 12.3114 27.2615C13.0068 27.4633 13.7142 27.639 14.4293 27.7844C15.1443 27.9298 15.8683 28.0387 16.5964 28.1167C17.3246 28.1947 18.0575 28.2384 18.792 28.2452C19.5265 28.252 20.2614 28.2274 20.9947 28.1619C21.728 28.0964 22.4589 28.0037 23.1827 27.8711C23.9066 27.7385 24.6361 27.5816 25.3484 27.3779C26.0606 27.1742 26.7644 26.9337 27.4494 26.6558C27.6979 26.5449 27.9903 26.3773 28.0133 26.0892C28.0363 25.801 27.7566 25.6006 27.5483 25.4696C25.862 24.471 24.0837 23.6583 22.2354 23.0365C22.0736 23.2894 22.1261 24.9999 22.3037 24.9999Z" fill="#6DB33F"/>
+      <path d="M26.9091 6.92113C26.7541 6.68461 26.5536 6.47748 26.3177 6.3129C26.0817 6.14831 25.8105 6.01899 25.5196 5.93101C25.2287 5.84303 24.92 5.796 24.6086 5.79135C24.2971 5.7867 23.9872 5.82608 23.693 5.90776C23.3989 5.98944 23.1231 6.11155 22.8805 6.27076C22.638 6.42998 22.4293 6.62389 22.265 6.84799C22.1006 7.07209 21.983 7.32326 21.9175 7.59073C21.8519 7.85819 21.8394 8.13786 21.8783 8.41064C21.9173 8.68342 22.0107 8.94496 22.1535 9.18303C22.2964 9.4211 22.4867 9.63145 22.7143 9.80239C22.9419 9.97333 23.2031 10.1031 23.4841 10.1865C23.7651 10.2699 24.0652 10.3002 24.3665 10.289C24.69 10.2759 25.0088 10.2063 25.3091 10.0834C25.6093 9.96046 25.8868 9.78575 26.1282 9.56659C26.3696 9.34743 26.571 9.08684 26.7231 8.79651C26.8751 8.50618 26.975 8.19128 27.0175 7.86666C27.0599 7.54204 27.0449 7.21209 26.9731 6.89401L26.9091 6.92113Z" fill="#6DB33F"/>
+      <path d="M3.84002 12.5703C3.93285 12.8341 4.07587 13.0794 4.26067 13.2945C4.44546 13.5097 4.66913 13.6912 4.91999 13.8301C5.17106 13.9688 5.44575 14.0641 5.73174 14.1112C6.01773 14.1583 6.30999 14.1572 6.59541 14.1087C6.98588 14.0483 7.36084 13.9067 7.69493 13.6936C8.02902 13.4805 8.3151 13.2004 8.53788 12.8719C8.76066 12.5434 8.91597 12.1734 8.99422 11.7847C9.07246 11.396 9.0722 10.9964 8.99372 10.6078C8.91524 10.2192 8.75953 9.84948 8.53644 9.52121C8.31334 9.19295 8.02688 8.91322 7.69254 8.70051C7.35821 8.4878 6.98302 8.34673 6.59247 8.28688C6.20191 8.22704 5.80282 8.24759 5.42117 8.34711C5.1351 8.41935 4.86348 8.53674 4.61816 8.69501C4.37283 8.85329 4.15781 9.05031 3.98275 9.27759C3.80769 9.50486 3.67523 9.7588 3.59103 10.0286C3.50683 10.2984 3.47219 10.5808 3.48894 10.8623C3.50565 11.1465 3.57329 11.4254 3.68898 11.686C3.80466 11.9466 3.96629 12.1843 4.16689 12.3877L3.84002 12.5703Z" fill="#6DB33F"/>
+      <path d="M8.46399 22.3466L8.38666 22.3884C9.73565 21.1966 10.8865 19.7987 11.7874 18.2517C12.6884 16.7047 13.3271 15.0307 13.677 13.2858C14.0268 11.541 14.0822 9.75113 13.8399 7.98802C13.5976 6.22491 13.0615 4.51717 12.262 2.94228C11.4626 1.36739 10.4127 1.03638e-06 9.15199 1.03638e-06C7.89126 1.03638e-06 6.84141 1.36739 6.04192 2.94228C5.24242 4.51717 4.70642 6.22491 4.46411 7.98802C4.2218 9.75113 4.27716 11.541 4.62698 13.2858C4.9768 15.0307 5.61557 16.7047 6.51655 18.2517C7.41753 19.7987 8.56833 21.1966 9.91732 22.3884L9.83999 22.3466H8.46399Z" fill="#6DB33F"/>
+      <path d="M16.0707 32C21.0892 32 25.6118 30.1571 29.0589 26.9335C25.6118 30.1571 21.0707 32 16.0707 32Z" fill="#6DB33F"/>
+      <path d="M16 32C10.9815 32 6.45891 30.1571 3.01178 26.9335C6.45891 30.1571 10.9815 32 16 32Z" fill="#6DB33F"/>
+      <path d="M16 32C24.8495 32 32 24.8366 32 16C32 7.16344 24.8366 0 16 0C7.16344 0 0 7.16344 0 16C0 24.8366 7.16344 32 16 32Z" fill="#6DB33F"/>
+    </svg>
+  </g>
+
+  <!-- Fila 2 -->
+  <rect x="150" y="280" class="hole" />
+  <g class="mole" id="mole4">
+    <!-- TypeScript -->
+    <svg x="175" y="230" width="50" height="50" viewBox="0 0 32 32" class="tech-icon">
+      <rect width="28" height="28" transform="translate(2 2)" fill="#3178C6"/>
+      <path d="M18.221 18.5717V21.391C18.7373 21.6643 19.3071 21.8698 19.9306 22.0086C20.5541 22.1473 21.2076 22.2166 21.8912 22.2166C22.5613 22.2166 23.1813 22.1391 23.7512 21.984C24.3211 21.8289 24.8174 21.5924 25.2401 21.2745C25.6627 20.9566 25.9901 20.5572 26.2223 20.0746C26.4546 19.5929 26.5703 19.0237 26.5703 18.3681C26.5703 17.8871 26.4991 17.4649 26.3568 17.1025C26.2145 16.7401 26.0113 16.4159 25.747 16.1316C25.4827 15.8483 25.1666 15.5913 24.7986 15.3621C24.4306 15.132 24.0243 14.9137 23.5797 14.7068C23.2344 14.5445 22.9255 14.3895 22.653 14.2408C22.3804 14.0921 22.1491 13.9435 21.9596 13.7957C21.7692 13.6479 21.6214 13.492 21.5154 13.3279C21.4095 13.1638 21.356 12.9778 21.356 12.7695C21.356 12.5721 21.4095 12.3935 21.5164 12.2339C21.6232 12.0742 21.7701 11.9363 21.9569 11.8194C22.1438 11.7024 22.3641 11.6119 22.6176 11.5486C22.8711 11.4853 23.142 11.4536 23.43 11.4536C23.6468 11.4536 23.879 11.4717 24.1253 11.5077C24.3716 11.5437 24.6197 11.5997 24.8686 11.6757C25.1175 11.7517 25.3609 11.8449 25.5988 11.9546C25.8367 12.0652 26.0545 12.194 26.2514 12.3408V9.72703C25.7741 9.48653 25.2669 9.3106 24.7296 9.18926C24.1923 9.06792 23.5979 9.00684 22.9473 9.00684C22.2844 9.00684 21.6699 9.0834 21.103 9.23742C20.5361 9.39145 20.0426 9.62105 19.6218 9.92722C19.2009 10.2334 18.87 10.6138 18.629 11.0683C18.3879 11.5229 18.2677 12.0498 18.2677 12.6491C18.2677 13.4132 18.4753 14.0634 18.8916 14.5986C19.3079 15.1339 19.9405 15.5995 20.7893 15.9966C21.1718 16.1616 21.5263 16.3221 21.8529 16.4781C22.1804 16.6341 22.4683 16.7946 22.7166 16.9597C22.9649 17.1248 23.1636 17.3062 23.3113 17.5041C23.4591 17.7019 23.5335 17.9197 23.5335 18.1594C23.5335 18.3513 23.4837 18.5254 23.3832 18.6813C23.2827 18.8364 23.1417 18.9706 22.9593 19.083C22.7778 19.1954 22.5549 19.2823 22.2923 19.3447C22.0297 19.407 21.7319 19.4378 21.3988 19.4378C20.7943 19.4378 20.1961 19.3319 19.6064 19.12C19.0168 18.9082 18.5684 18.6677 18.221 18.5717Z" fill="white"/>
+      <path d="M15.9385 13.1787H12.0391V22.0086H15.9385V13.1787Z" fill="white"/>
+    </svg>
+  </g>
+
+  <rect x="350" y="280" class="hole" />
+  <g class="mole" id="mole5">
+    <!-- Python -->
+    <svg x="375" y="230" width="50" height="50" viewBox="0 0 32 32" class="tech-icon">
+      <path d="M15.885 2.1c-7.1 0-6.651 3.07-6.651 3.07v3.19h6.752v0.966H6.545S2 8.8 2 16c0 7.2 3.95 6.95 3.95 6.95h2.35v-3.346s-0.126-3.951 3.85-3.951h6.65s3.75 0.06 3.75-3.676V5.5s0.605-3.4-6.65-3.4zM12.05 4.94c0.66 0 1.2 0.54 1.2 1.2s-0.54 1.2-1.2 1.2-1.2-0.54-1.2-1.2c0-0.66 0.54-1.2 1.2-1.2z" fill="#0277BD"/>
+      <path d="M16.115 29.9c7.1 0 6.65-3.07 6.65-3.07v-3.19H16.015v-0.966h9.45S30 23.2 30 16c0-7.2-3.95-6.95-3.95-6.95h-2.35v3.346s0.13 3.95-3.85 3.95h-6.65s-3.75-0.06-3.75 3.676V26.5s-0.605 3.4 6.65 3.4zM19.95 27.06c-0.66 0-1.2-0.54-1.2-1.2s0.54-1.2 1.2-1.2 1.2 0.54 1.2 1.2c0 0.66-0.54 1.2-1.2 1.2z" fill="#FFC107"/>
+    </svg>
+  </g>
+
+  <rect x="550" y="280" class="hole" />
+  <g class="mole" id="mole6">
+    <!-- .NET -->
+    <svg x="575" y="230" width="50" height="50" viewBox="0 0 32 32" class="tech-icon">
+      <path d="M3.175 18.804L2 28.073h2.992l0.7-5.367h0.024c0.251 0 0.454 0.06 0.61 0.175 0.155 0.115 0.277 0.282 0.366 0.501 0.089 0.219 0.15 0.487 0.183 0.802 0.033 0.315 0.05 0.665 0.05 1.052v2.837h2.992v-3.066c0-0.673-0.035-1.289-0.104-1.848-0.069-0.509-0.196-0.977-0.382-1.406h0.024c0.089 0.236 0.185 0.457 0.29 0.668 0.251 0.525 0.543 0.984 0.875 1.376 0.332 0.391 0.712 0.696 1.142 0.913 0.429 0.217 0.918 0.326 1.468 0.326 0.827 0 1.538-0.226 2.131-0.677s1.051-1.066 1.371-1.847h-0.024l0.43 2.265h2.724l-0.903-4.756c-0.074-0.383-0.134-0.783-0.178-1.201-0.045-0.417-0.067-0.834-0.067-1.251 0-0.434 0.028-0.85 0.086-1.251 0.057-0.4 0.148-0.757 0.271-1.07h-2.962c-0.079 0.33-0.129 0.653-0.147 0.972-0.019 0.319-0.029 0.653-0.029 1.001l-0.067-0.087c-0.168-0.392-0.379-0.732-0.63-1.019-0.251-0.287-0.543-0.517-0.875-0.692-0.332-0.174-0.725-0.261-1.176-0.261-0.787 0-1.439 0.22-1.959 0.659-0.519 0.439-0.952 1.035-1.3 1.789h-0.024l0.012-2.313h-2.927l-0.061 3.066c-0.01 0.504-0.043 0.986-0.098 1.449-0.055 0.461-0.144 0.87-0.266 1.226h-0.024c-0.089-0.287-0.159-0.594-0.208-0.924-0.05-0.33-0.086-0.673-0.11-1.025-0.024-0.353-0.036-0.714-0.036-1.08V16.63h-2.992v1.145c0 0.695 0.025 1.336 0.074 1.922 0.05 0.586 0.171 1.136 0.364 1.65-0.268-0.383-0.6-0.708-0.997-0.977-0.396-0.27-0.9-0.408-1.506-0.431l-0.073-1.137h1.518l0.628-3.168H3.175v0-0.001zm21.268 2.248c0 0.712 0.013 1.403 0.037 2.075 0.025 0.671 0.066 1.322 0.122 1.953l-0.037 0.021c-0.113-0.42-0.246-0.827-0.397-1.222-0.151-0.395-0.322-0.754-0.512-1.076-0.19-0.323-0.397-0.579-0.62-0.768-0.224-0.188-0.454-0.283-0.691-0.283-0.329 0-0.633 0.181-0.91 0.542-0.278 0.362-0.522 0.84-0.731 1.437-0.211 0.595-0.379 1.274-0.506 2.034-0.126 0.76-0.19 1.55-0.19 2.366 0 0.392 0.016 0.796 0.049 1.214 0.033 0.417 0.105 0.797 0.215 1.139 0.11 0.343 0.271 0.624 0.48 0.845 0.212 0.22 0.49 0.33 0.837 0.33 0.312 0 0.606-0.126 0.883-0.381 0.275-0.252 0.519-0.565 0.731-0.94 0.211-0.374 0.399-0.78 0.566-1.22 0.168-0.44 0.302-0.854 0.405-1.244h0.037c-0.033 0.424-0.061 0.833-0.085 1.224-0.025 0.393-0.037 0.792-0.037 1.201h3.15c0-0.703-0.013-1.384-0.038-2.039-0.023-0.655-0.064-1.292-0.119-1.912h0.037c0.11 0.402 0.241 0.803 0.394 1.199 0.151 0.398 0.324 0.758 0.518 1.082 0.193 0.325 0.402 0.585 0.628 0.785 0.223 0.197 0.465 0.296 0.722 0.296 0.33 0 0.633-0.175 0.909-0.526 0.277-0.352 0.52-0.822 0.73-1.415 0.208-0.596 0.374-1.275 0.498-2.039 0.123-0.765 0.186-1.562 0.186-2.388 0-0.358-0.016-0.743-0.049-1.151-0.034-0.407-0.105-0.783-0.216-1.126-0.11-0.343-0.272-0.624-0.486-0.845-0.215-0.22-0.505-0.33-0.875-0.33-0.329 0-0.639 0.136-0.927 0.405-0.29 0.27-0.546 0.599-0.769 0.983-0.223 0.386-0.414 0.793-0.573 1.223-0.16 0.429-0.285 0.811-0.375 1.147h-0.037c0.034-0.387 0.063-0.798 0.086-1.227 0.024-0.431 0.036-0.855 0.036-1.274h-3.148v-0.001zM5.614 13.206c0 0.318 0.054 0.619 0.161 0.902 0.107 0.284 0.257 0.531 0.448 0.741 0.191 0.211 0.419 0.378 0.681 0.498 0.264 0.12 0.551 0.18 0.858 0.18 0.283 0 0.556-0.06 0.819-0.18 0.262-0.12 0.498-0.287 0.707-0.498s0.371-0.457 0.495-0.741c0.124-0.283 0.185-0.584 0.185-0.902 0-0.319-0.061-0.616-0.185-0.891-0.124-0.276-0.287-0.515-0.495-0.718-0.209-0.202-0.445-0.36-0.707-0.475-0.264-0.115-0.537-0.172-0.819-0.172-0.307 0-0.594 0.057-0.858 0.172-0.262 0.115-0.49 0.273-0.681 0.475-0.191 0.202-0.34 0.442-0.448 0.718-0.107 0.275-0.161 0.572-0.161 0.891z" fill="#512BD4"/>
+    </svg>
+  </g>
+
+  <!-- Script para el juego -->
+  <script type="text/javascript">
+    <![CDATA[
+    // Variables del juego
+    let score = 0;
+    let isPlaying = false;
+    let activeMole = null;
+    let gameInterval = null;
+    
+    // Seleccionar elementos
+    const startButton = document.getElementById('startButton');
+    const scoreText = document.getElementById('score');
+    const moles = [
+      document.getElementById('mole1'),
+      document.getElementById('mole2'),
+      document.getElementById('mole3'),
+      document.getElementById('mole4'),
+      document.getElementById('mole5'),
+      document.getElementById('mole6')
+    ];
+    
+    // Evento de clic para iniciar el juego
+    startButton.addEventListener('click', startGame);
+    
+    // Función para iniciar el juego
+    function startGame() {
+      // Reiniciar puntuación
+      score = 0;
+      scoreText.textContent = 'Score: 0';
+      isPlaying = true;
+      
+      // Cambiar texto del botón
+      startButton.firstChild.textContent = 'REINICIAR';
+      
+      // Iniciar aparición aleatoria de topos
+      gameInterval = setInterval(showRandomMole, 2000);
+    }
+    
+    // Función para mostrar un topo aleatorio
+    function showRandomMole() {
+      // Ocultar topo activo si hay uno
+      if (activeMole) {
+        activeMole.style.animationPlayState = 'paused';
+        activeMole.style.opacity = 0;
+        activeMole.removeEventListener('click', hitMole);
+      }
+      
+      // Seleccionar un topo aleatorio
+      const randomIndex = Math.floor(Math.random() * moles.length);
+      activeMole = moles[randomIndex];
+      
+      // Mostrar el topo
+      activeMole.style.animationPlayState = 'running';
+      
+      // Añadir evento de clic
+      activeMole.addEventListener('click', hitMole);
+    }
+    
+    // Función para golpear un topo
+    function hitMole() {
+      // Aumentar puntuación
+      score += 10;
+      scoreText.textContent = 'Score: ' + score;
+      
+      // Ocultar el topo golpeado
+      this.style.animationPlayState = 'paused';
+      this.style.opacity = 0;
+      this.removeEventListener('click', hitMole);
+      
+      // Mostrar otro topo inmediatamente
+      clearInterval(gameInterval);
+      gameInterval = setInterval(showRandomMole, 2000);
+      showRandomMole();
+    }
+    ]]>
+  </script>
+</svg>
