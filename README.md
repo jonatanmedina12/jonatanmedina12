@@ -16,7 +16,7 @@
         <img src="https://img.shields.io/badge/🏹%20FRONTEND-00FFFF?style=for-the-badge&labelColor=black" alt="Frontend" /><br/>
         <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
       </td>
       <td align="center" width="50%">
         <img src="https://img.shields.io/badge/⚔️%20BACKEND-FF00FF?style=for-the-badge&labelColor=black" alt="Backend" /><br/>
@@ -46,15 +46,18 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jonatanmedina12/jonatanmedina12/output/github-snake.svg">
     <img alt="Snake Animation" src="https://raw.githubusercontent.com/jonatanmedina12/jonatanmedina12/output/github-snake-dark.svg">
   </picture>
+  
+  <br/><br/>
+  <img src="https://i.imgur.com/1ZvVkDc.gif" alt="Mario Saltando" width="230px" />
 </div>
 
 ## 🌐 Conectar
 
 <div align="center">
-  <a href="https://linkedin.com/in/tu-linkedin" target="_blank">
+  <a href="www.linkedin.com/in/jonatan-albenio-medina-sandoval-862a15287" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:tuemail@gmail.com" target="_blank">
+  <a href="JonatanAlbenioMedina@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
@@ -63,6 +66,4 @@
   <img src="https://komarev.com/ghpvc/?username=jonatanmedina12&label=Visitantes&color=brightgreen&style=for-the-badge" alt="Profile Views" />
   <br/><br/>
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
-  
-  ### PRESS START TO COLLABORATE
-</div>
+  </div>
