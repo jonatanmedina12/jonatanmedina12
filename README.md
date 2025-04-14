@@ -1,16 +1,33 @@
-# 🎮 ¡BIENVENIDO AL PERFIL DE [TU NOMBRE]! 🎮
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Developer%20Quest&fontSize=90&animation=fadeIn&fontAlignY=38&desc=¡Acompáñame%20en%20esta%20aventura%20de%20código!&descAlignY=60&descAlign=50" width="100%">
-
-  ![Game Console](https://img.shields.io/badge/NIVEL-42-brightgreen?style=for-the-badge&logo=nintendo-switch)
-  ![XP](https://img.shields.io/badge/XP-9840%2F10000-orange?style=for-the-badge&logo=xbox)
-  ![Class](https://img.shields.io/badge/CLASE-Full%20Stack%20Mage-blueviolet?style=for-the-badge&logo=github)
-  ![Guild](https://img.shields.io/badge/GREMIO-Software%20Artisans-blue?style=for-the-badge&logo=discord)
-</div>
-
-<!-- Contenido del perfil estilo videojuego -->
-
 ## 🎮 ¡JUEGA CONMIGO!
 
-<!-- Código SV
+<!-- Código SVG del juego "Developer Whack-a-Tech" -->
+<svg width="800" height="400" viewBox="0 0 800 400" fill="none" xmlns="http://www.w3.org/2000/svg"
+  style="background-color: #0d1117;">
+  <!-- Aquí va todo el código SVG del juego que te proporcioné anteriormente -->
+</svg>
+
+## 💻 MI TERMINAL
+
+<!-- Código SVG de la terminal interactiva -->
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Aquí va todo el código SVG de la terminal que te proporcioné anteriormente -->
+</svg>
+
+## 📊 ESTADÍSTICAS DE BATALLA
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical&border_radius=10&title_color=00FF00&icon_color=FFFF00&text_color=00FFFF&bg_color=010B13)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=radical&title_color=00FF00&text_color=00FFFF&bg_color=010B13)
+
+## 🌐 ÚNETE A MI AVENTURA
+
+[![LinkedIn](https://img.shields.io/badge/-JOIN_PARTY-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/-VIEW_QUEST_LOG-FF5700?style=for-the-badge&logo=firefox&logoColor=white)](https://tu-sitio.com)
+[![Email](https://img.shields.io/badge/-SEND_MESSAGE-00A95C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
+
+<!-- Animación de serpiente generada por GitHub Actions -->
+![Snake animation](https://github.com/TU-USUARIO/TU-USUARIO/blob/output/github-contribution-grid-snake-dark.svg)
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=PRESIONA%20STAR%20PARA%20GUARDAR%20PARTIDA&fontSize=24&animation=fadeIn&fontAlignY=80" width="100%">
+</div>
