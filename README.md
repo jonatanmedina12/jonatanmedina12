@@ -1,4 +1,4 @@
-# 🎮 ¡PLAYER 1 READY! - [Tu Nombre] 🎮
+# 🎮 ¡PLAYER 1 READY! -Jonatan Albenio Medina Sandoval 🎮
 
 <div align="center">
   <img src="./assets/banner.svg" alt="Banner" width="800" />
@@ -115,7 +115,7 @@ Django        ■■■■■■□□□□   60/100
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/username?=jonatanmedina12&label=Visitantes&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/user?=jonatanmedina12&label=Visitantes&color=brightgreen&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ---
