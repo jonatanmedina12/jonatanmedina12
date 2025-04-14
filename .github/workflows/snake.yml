@@ -15,7 +15,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: jonatanmedina12
           # Colores temáticos de videojuegos (verde oscuro y verde claro)
           svg_out_path: dist/github-contribution-grid-snake-dark.svg
           snake_color: "#00FF00"
