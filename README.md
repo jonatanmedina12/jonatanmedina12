@@ -12,7 +12,7 @@
 ## 🏆 Stats de Jugador
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?jonatanmedina12=TU_USUARIO&theme=darkhub&row=1&column=6&margin-w=15&margin-h=15" alt="Trofeos" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jonatanmedina12&theme=darkhub&row=1&column=6&margin-w=15&margin-h=15" alt="Trofeos" />
 </div>
 
 ## 📊 Mis Puntuaciones
@@ -21,10 +21,10 @@
   <table>
     <tr>
       <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?jonatanmedina12=TU_USUARIO&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&custom_title=🔥%20Estadísticas%20de%20Combate%20🔥" alt="GitHub Stats" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=jonatanmedina12&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&custom_title=🔥%20Estadísticas%20de%20Combate%20🔥" alt="GitHub Stats" />
       </td>
       <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?jonatanmedina12=TU_USUARIO&layout=compact&theme=chartreuse-dark&custom_title=💻%20Habilidades%20Desbloqueadas%20💻" alt="Top Languages" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatanmedina12&layout=compact&theme=chartreuse-dark&custom_title=💻%20Habilidades%20Desbloqueadas%20💻" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -111,7 +111,7 @@ Django        ■■■■■■□□□□   60/100
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?jonatanmedina12=TU_USUARIO&label=Visitantes&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/username?=jonatanmedina12&label=Visitantes&color=brightgreen&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ---
