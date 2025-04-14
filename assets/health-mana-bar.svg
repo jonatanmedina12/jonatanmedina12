@@ -1,0 +1,55 @@
+<svg viewBox="0 0 450 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fondo -->
+  <rect x="0" y="0" width="450" height="100" fill="#111" rx="10" ry="10" />
+  
+  <!-- Título HP -->
+  <text x="25" y="30" font-family="'Press Start 2P', monospace" font-size="16" fill="#FFF">HP</text>
+  
+  <!-- Barra de HP vacía -->
+  <rect x="70" y="15" width="350" height="20" fill="#333" rx="5" ry="5" />
+  
+  <!-- Barra de HP llena -->
+  <rect x="70" y="15" width="350" height="20" fill="#ff0000" rx="5" ry="5" />
+  
+  <!-- Efecto de brillo -->
+  <rect x="70" y="15" width="350" height="10" fill="#ff5555" rx="5" ry="5" opacity="0.5" />
+  
+  <!-- Título MP -->
+  <text x="25" y="70" font-family="'Press Start 2P', monospace" font-size="16" fill="#FFF">MP</text>
+  
+  <!-- Barra de MP vacía -->
+  <rect x="70" y="55" width="350" height="20" fill="#333" rx="5" ry="5" />
+  
+  <!-- Barra de MP llena -->
+  <rect x="70" y="55" width="315" height="20" fill="#0066ff" rx="5" ry="5" />
+  
+  <!-- Efecto de brillo -->
+  <rect x="70" y="55" width="315" height="10" fill="#66a3ff" rx="5" ry="5" opacity="0.5" />
+  
+  <!-- Divisiones en ambas barras -->
+  <g opacity="0.3" fill="#000">
+    <rect x="105" y="15" width="2" height="20" />
+    <rect x="140" y="15" width="2" height="20" />
+    <rect x="175" y="15" width="2" height="20" />
+    <rect x="210" y="15" width="2" height="20" />
+    <rect x="245" y="15" width="2" height="20" />
+    <rect x="280" y="15" width="2" height="20" />
+    <rect x="315" y="15" width="2" height="20" />
+    <rect x="350" y="15" width="2" height="20" />
+    <rect x="385" y="15" width="2" height="20" />
+    
+    <rect x="105" y="55" width="2" height="20" />
+    <rect x="140" y="55" width="2" height="20" />
+    <rect x="175" y="55" width="2" height="20" />
+    <rect x="210" y="55" width="2" height="20" />
+    <rect x="245" y="55" width="2" height="20" />
+    <rect x="280" y="55" width="2" height="20" />
+    <rect x="315" y="55" width="2" height="20" />
+    <rect x="350" y="55" width="2" height="20" />
+    <rect x="385" y="55" width="2" height="20" />
+  </g>
+  
+  <!-- Valores -->
+  <text x="430" y="30" font-family="'Press Start 2P', monospace" font-size="12" text-anchor="end" fill="#FFF">100/100</text>
+  <text x="430" y="70" font-family="'Press Start 2P', monospace" font-size="12" text-anchor="end" fill="#FFF">90/100</text>
+</svg>
