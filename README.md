@@ -117,7 +117,27 @@
 <img src="https://i.imgur.com/waxVImv.png" align="right" height="100%" width="3px">
 
 <div align="center">
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/jonatanmedina12)
+## 📊 GitHub Stats & Power-Ups
+
+<!-- Borde lateral izquierdo -->
+<img src="https://i.imgur.com/waxVImv.png" align="left" height="100%" width="3px">
+
+<div align="center">
+  <!-- Streaks -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jonatanmedina12&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <br/><br/>
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=jonatanmedina12&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <br/><br/>
+
+  <!-- Lenguajes más usados -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatanmedina12&layout=compact&theme=merko&hide_border=true" alt="Top Languages" />
+  <br/><br/>
+
+  <!-- Contador de líneas de código -->
+  <img src="https://profile-counter.glitch.me/jonatanmedina12/count.svg" alt="Profile Counter" />
+</div>
 
 <!-- Borde inferior decorativo -->
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
