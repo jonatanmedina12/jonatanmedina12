@@ -1,0 +1,59 @@
+<svg viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fondo tipo arcade -->
+  <rect x="0" y="0" width="800" height="200" fill="#000" />
+  <g>
+    <!-- Estrellas de fondo -->
+    <circle cx="50" cy="30" r="1" fill="#fff" />
+    <circle cx="120" cy="60" r="1.5" fill="#fff" />
+    <circle cx="200" cy="40" r="1" fill="#fff" />
+    <circle cx="280" cy="70" r="1.5" fill="#fff" />
+    <circle cx="350" cy="20" r="1" fill="#fff" />
+    <circle cx="420" cy="50" r="1.5" fill="#fff" />
+    <circle cx="500" cy="30" r="1" fill="#fff" />
+    <circle cx="580" cy="60" r="1.5" fill="#fff" />
+    <circle cx="650" cy="25" r="1" fill="#fff" />
+    <circle cx="720" cy="45" r="1.5" fill="#fff" />
+    <circle cx="780" cy="35" r="1" fill="#fff" />
+    <!-- Más estrellas en la parte inferior -->
+    <circle cx="30" cy="140" r="1" fill="#fff" />
+    <circle cx="100" cy="160" r="1.5" fill="#fff" />
+    <circle cx="180" cy="150" r="1" fill="#fff" />
+    <circle cx="260" cy="170" r="1.5" fill="#fff" />
+    <circle cx="330" cy="130" r="1" fill="#fff" />
+    <circle cx="400" cy="180" r="1.5" fill="#fff" />
+    <circle cx="480" cy="140" r="1" fill="#fff" />
+    <circle cx="560" cy="165" r="1.5" fill="#fff" />
+    <circle cx="630" cy="135" r="1" fill="#fff" />
+    <circle cx="700" cy="175" r="1.5" fill="#fff" />
+    <circle cx="770" cy="150" r="1" fill="#fff" />
+  </g>
+  
+  <!-- Efecto de píxeles y escaneo -->
+  <rect x="0" y="0" width="800" height="200" fill="url(#scanlines)" opacity="0.1" />
+  
+  <!-- Texto principal -->
+  <text x="400" y="85" font-family="'Press Start 2P', monospace" font-size="40" text-anchor="middle" fill="#00FF00" stroke="#003300" stroke-width="1">
+    DEV GAME MASTER
+  </text>
+  
+  <!-- Subtítulo -->
+  <text x="400" y="125" font-family="'Press Start 2P', monospace" font-size="20" text-anchor="middle" fill="#00FFFF">
+    FULL STACK DEVELOPER
+  </text>
+  
+  <!-- Elementos de juego -->
+  <!-- Controles izquierda -->
+  <rect x="50" y="80" width="40" height="40" rx="5" fill="#333" stroke="#00FF00" stroke-width="2" />
+  <polygon points="70,85 70,115 55,100" fill="#00FF00" />
+  
+  <!-- Controles derecha -->
+  <rect x="710" y="80" width="40" height="40" rx="5" fill="#333" stroke="#00FF00" stroke-width="2" />
+  <polygon points="730,85 730,115 745,100" fill="#00FF00" />
+  
+  <!-- Definiciones de patrones -->
+  <defs>
+    <pattern id="scanlines" width="800" height="2" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="800" height="1" fill="#FFF" opacity="0.1" />
+    </pattern>
+  </defs>
+</svg>
