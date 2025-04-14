@@ -1,6 +1,9 @@
 # 🎮 ¡PLAYER 1 READY! - Jonatan Medina 🎮
 
 <div align="center">
+  <!-- Borde superior decorativo -->
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=FULL+STACK+DEVELOPER;QUEST+MASTER;CODE+WIZARD;BUG+SLAYER" alt="Typing SVG" />
   
   <br/>
@@ -13,6 +16,9 @@
 </div>
 
 ## 🔥 Tech Skills
+
+<!-- Borde lateral izquierdo -->
+<img src="https://i.imgur.com/waxVImv.png" align="left" height="100%" width="3px">
 
 <div align="center">
   <table border="0" style="border-collapse: collapse; width: 100%;">
@@ -35,7 +41,13 @@
   </table>
 </div>
 
+<!-- Borde lateral derecho -->
+<img src="https://i.imgur.com/waxVImv.png" align="right" height="100%" width="3px">
+
 ## 🧙‍♂️ Ultimate Powers
+
+<!-- Borde lateral izquierdo -->
+<img src="https://i.imgur.com/waxVImv.png" align="left" height="100%" width="3px">
 
 <div align="center" style="background: #000; padding: 20px; border-radius: 10px;">
   <table border="0">
@@ -59,7 +71,13 @@
   </table>
 </div>
 
+<!-- Borde lateral derecho -->
+<img src="https://i.imgur.com/waxVImv.png" align="right" height="100%" width="3px">
+
 ## 🗺️ Mapa de Actividad
+
+<!-- Borde lateral izquierdo -->
+<img src="https://i.imgur.com/waxVImv.png" align="left" height="100%" width="3px">
 
 <div align="center">
   <picture>
@@ -72,7 +90,13 @@
   <img src="https://i.imgur.com/1ZvVkDc.gif" alt="Mario Saltando" width="230px" />
 </div>
 
+<!-- Borde lateral derecho -->
+<img src="https://i.imgur.com/waxVImv.png" align="right" height="100%" width="3px">
+
 ## 🌐 Conectar
+
+<!-- Borde lateral izquierdo -->
+<img src="https://i.imgur.com/waxVImv.png" align="left" height="100%" width="3px">
 
 <div align="center">
   <a href="www.linkedin.com/in/jonatan-albenio-medina-sandoval-862a15287" target="_blank">
@@ -82,6 +106,9 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
+
+<!-- Borde lateral derecho -->
+<img src="https://i.imgur.com/waxVImv.png" align="right" height="100%" width="3px">
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=jonatanmedina12&label=Visitantes&color=brightgreen&style=for-the-badge" alt="Profile Views" />
@@ -94,5 +121,8 @@
   
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
   
-
+  ### PRESS START TO COLLABORATE
+  
+  <!-- Borde inferior decorativo -->
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
