@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h1 ># 🎮 ¡PLAYER 1 READY! - Jonatan Medina 🎮</h1>
+<h1 >Jonatan Medina 🎮</h1>
 
 </div>
 
