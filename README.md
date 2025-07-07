@@ -7,9 +7,7 @@
 </div>
 
 <div align="center">
-  <!-- Borde superior decorativo -->
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-  
+  <!-- Borde superior decorativo -->  
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=FULL+STACK+DEVELOPER;QUEST+MASTER;CODE+WIZARD;BUG+SLAYER" alt="Typing SVG" />
   
   <br/>
@@ -142,6 +140,5 @@
 </div>
 
 <!-- Borde inferior decorativo -->
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   <!-- Borde inferior decorativo -->
 </div>
